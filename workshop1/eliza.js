@@ -223,7 +223,7 @@ var rules = {
     "What comes to your mind when you ask that?",
   ],
   "~*x Ariel ~*y": [
-    "Fuck you and your dog...",
+    "Fuck him and his dog...",
   ],
 };
 
