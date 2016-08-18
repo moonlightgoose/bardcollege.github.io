@@ -222,8 +222,8 @@ var rules = {
     "What do you think?",
     "What comes to your mind when you ask that?",
   ],
-  "~*x perhaps ~*y": [
-    "You do not seem quite certain",
+  "~*x Ariel ~*y": [
+    "Fuck you and your dog...",
   ],
 };
 
